@@ -48,4 +48,8 @@ Sergiolf03/Practica_Final_Cojali
 - CSS
 - JavaScript
 
+## Contacto
+- email: sergiolf03@gmail.com
+
+
 
