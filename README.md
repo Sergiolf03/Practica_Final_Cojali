@@ -1,5 +1,5 @@
 # Practica_Final_Cojali
-Practica final de las en Cojali, página web.
+Practica finalen Cojali, página web: 
 https://practica-final-cojali.vercel.app/
 # 🔍 Buscador Pokémon  
 
