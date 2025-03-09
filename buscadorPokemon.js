@@ -42,7 +42,7 @@ function mostrarError(contenedorNumero) {
     let infoDivId = `pokemonInfo${contenedorNumero}`;
     let infoDiv = document.getElementById(infoDivId);
     infoDiv.innerHTML = `
-    <p class="pk-ms">Pokemon no encontrado. <br> Intenta con otro nombre o Número</p>
+    <p class="pk-ms">Pokemon no encontrado. <br> Intenta con otro nombre o id(1-1025)</p>
 
 `
 }
