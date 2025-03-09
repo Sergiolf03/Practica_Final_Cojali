@@ -24,18 +24,19 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 2. Abre el archivo index.html en tu navegador para acceder a la interfaz principal
 
 ## Uso   
-- Buscador de Pokémon: Utiliza el archivo buscadorPokemon.html para buscar información específica sobre Pokémon.
-- Explorar Regiones: Navega por las diferentes regiones de Pokémon utilizando regiones.html.
-- Índices: Consulta los índices de Pokémon en index.html.
+- Índice: Pagina de inicio en la cual hay informacion y los diferentes enlaces a las siguientes páginas.
+- Buscador de Pokémon: En esta página podras buscar el pokemon que tu quieras mediante su id (1-1025) o su nombre.
+- Explorar Regiones: Aqui podras encontrar informacion sobre las siguientes regiones además de los juegos en los cuales se desarrollan esas regiones.
+
 
 ## 📂 Estructura del proyecto  
 Sergiolf03/Practica_Final_Cojali
-├── buscadorPokemon.css
-├── buscadorPokemon.html
-├── buscadorPokemon.js
 ├── index.html
 ├── indices.css
 ├── indices.js
+├── buscadorPokemon.css
+├── buscadorPokemon.html
+├── buscadorPokemon.js
 ├── regiones.css
 ├── regiones.html
 ├── regiones.js
